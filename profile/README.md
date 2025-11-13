@@ -9,7 +9,7 @@
 - Front-end : ReactJS
 - Back-end : FastAPI
 - 추가 예정
-- 🔗[커밋 컨벤션](https://github.com/FISA5th-AI-Final-Team4/.github/wiki/%EC%BB%A4%EB%B0%8B-%EC%BB%A8%EB%B2%A4%EC%85%98)
+- 🔗[커밋 컨벤션](https://github.com/Fisa5th-AI-Final-Wooram/FISA-final/blob/main/CONTRIBUTING.md)
 
 
 ## 2. 시스템 아키텍쳐
