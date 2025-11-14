@@ -19,6 +19,6 @@
 ## 팀원 소개
 | **김영래** | **이민지** | **김초아** | **조효림** | **이소정** |
 | :------: |  :------: | :------: | :------: | :------: |
-| |
+| [<img src="https://i.imgur.com/gAvzTxl.png" height=160 width=160/> <br/> @kimyoungraek](https://github.com/kimyoungraek) | [<img src="https://i.imgur.com/o7VpftM.png" height=160 width=160/> <br/> @rainingcodes](https://github.com/rainingcodes) | [<img src="https://i.imgur.com/aJ6Tn6J.png" height=160 width=160/> <br/> @Choa0Kim](https://github.com/Choa0Kim) | [<img src="https://i.imgur.com/zU1bRiD.png" height=160 width=160/> <br/> @HyorimJo](https://github.com/HyorimJo) | [<img src="https://i.imgur.com/Xo6Q4An.png" height=160 width=160/> <br/> @sozzom-tech](https://github.com/sozzom-tech) |
 | :------: |  :------: | :------: | :------: | :------: |
 | 팀장 |  :------: | :------: | :------: | :------: |
