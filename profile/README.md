@@ -6,7 +6,7 @@
 
 ## 1. 개발 스택
 
-- Front-end : ReactJS
+- Front-end : Spring
 - Back-end : FastAPI
 - 추가 예정
 - 🔗[커밋 컨벤션](https://github.com/Fisa5th-AI-Final-Wooram/FISA-final/blob/main/CONTRIBUTING.md)
